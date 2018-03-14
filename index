@@ -1,9 +1,13 @@
- <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
+<section id="heading">
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1 title="I'm A Header">My First Heading</h1>
+<hr>
+<p style="color:red;">This is my first webpage.</p>
+<hr>
+<p style="color:red; font-size:50px;">My first paragraph.</p>
 
+</section>
 </body>
 </html> 
